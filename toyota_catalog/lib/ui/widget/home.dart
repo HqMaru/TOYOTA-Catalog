@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:toyota_catalog/ui/widget/home_box_kategori.dart';
+import 'package:toyota_catalog/ui/widget/home_page.dart';
 
 class Home extends StatefulWidget {
   const Home({ Key? key }) : super(key: key);
